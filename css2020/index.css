@@ -1,0 +1,33 @@
+img {
+    max-width: 100%;
+}
+
+.titulo {
+    background-color: black;
+    color: white;
+}
+
+.side {
+    background-color: rgba(40, 83, 83, 0.8);
+    color: white;
+}
+
+.new {
+    background-color: rgb(58, 14, 14);
+    color: white;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.image {
+    background-image: url("../src2020/linalamp.jpg");
+    background-color: transparent;
+    background-size: 450px;
+}
+
+.content {
+    height: 78%;
+}
